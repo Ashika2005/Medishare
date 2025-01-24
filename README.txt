@@ -1,4 +1,4 @@
-MediShare is an innovative college project designed with a primary focus on robust DBMS and backend functionalities. The platform allows users to list their medicines for sale, while others can purchase them seamlessly.
+MediShare is an innovative  project designed with a primary focus on robust DBMS and backend functionalities. The platform allows users to list their medicines for sale, while others can purchase them seamlessly.
 
 To ensure security and privacy, users create accounts with passwords securely hashed using bcrypt.js before being stored in the database. This guarantees the confidentiality of user data.
 
